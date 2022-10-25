@@ -1,2 +1,2 @@
-# RustOS
-A very simple Operating System for IoT written in Rust
+# RustMiniGame
+A very simple game to learn the basics of Rust. 
